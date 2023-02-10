@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-##Conteudo estudado até o momento
+## Conteudo estudado até o momento
+
 Conhecendo o JSX em React, COMPONENTES, PROPS, CSS + REACT, FRAGMENTS + PROPS AVANÇADO.
 
 ### `npm start`
